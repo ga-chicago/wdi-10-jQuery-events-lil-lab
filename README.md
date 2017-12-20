@@ -11,7 +11,7 @@ Topics: jQuery, JS control flow<br>
 
 ---
 
-~[worf](http://www.startrek.com/uploads/assets/db_articles/f58061421908ad3c900f1557e8780cfd13a54c13.jpg)
+![worf](http://www.startrek.com/uploads/assets/db_articles/f58061421908ad3c900f1557e8780cfd13a54c13.jpg)
 
 ---
 
